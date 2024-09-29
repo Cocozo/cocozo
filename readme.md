@@ -6,9 +6,9 @@ name : Kim Jea Ha (김재하)
 한국디지털 미디어 고등학교 졸업(2015.03 ~ 2018.02)   
 국민대학교 소프트웨어학과 졸업(2018.03 ~ 2024.08)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/cocozo/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/cocozo/github-readme-stats)
 
 # contact me
