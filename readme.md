@@ -3,9 +3,9 @@
 # about me
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocozo"/>
-name : Kim Jea Ha (김재하)
-한국디지털 미디어 고등학교 졸업(2015.03 ~ 2018.02)   
-국민대학교 소프트웨어학과 졸업(2018.03 ~ 2024.08)
+name : Kim Jea Ha (김재하)<br>
+한국디지털 미디어 고등학교 졸업(2015.03 ~ 2018.02)<br>
+국민대학교 소프트웨어학과 졸업(2018.03 ~ 2024.08)<br>
 
 </div>
 # contact me
