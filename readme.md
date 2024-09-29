@@ -4,7 +4,6 @@
 </div>
 
 <div>
-# about me
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocozo"/>
 name : Kim Jea Ha (김재하)<br>
 한국디지털 미디어 고등학교 졸업(2015.03 ~ 2018.02)<br>
